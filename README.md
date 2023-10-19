@@ -76,3 +76,5 @@
 ## reference
 
 - [코딩수학](https://www.tcpschool.com/codingmath/notation)
+- [수학방](https://mathbang.net/)
+- [khan academy](https://ko.khanacademy.org/)
