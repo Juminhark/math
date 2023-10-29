@@ -23,3 +23,17 @@
 > 차수가 1이상이고 미지수가 하나인, 복소수 계수 다항식은, 적어도 하나의 복소수 근을 갖음
 
 즉, 복소수 계수를 갖는 모든 방정식의 해를 풀려면. 복소수 범위의 수만 있으면 충분함.
+
+## quadratic formula : 근의 공식
+
+이차 방정식 ax<sup>2</sup> + bx + c = 0의 꼴을 완전제곱식으로 변형하여 근을 구할 수 있는 일반식으로 도출한것이 근의 공식이다.
+
+![qudratic_formula](../assets/qudratic_formula.png)
+
+## completing the square : 완전제곱식 만들기
+
+completing the square는 이차다항식을 일차 일계수 다항식의 제곱의 상수배(perfect square)와 상수의 합의 꼴로 나타내는 기법
+
+a(x - h)<sup>2</sup> + k
+
+![completing_square](../assets/completing_square.png)

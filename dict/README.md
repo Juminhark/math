@@ -23,6 +23,9 @@ normalization : 정규화
 sign : 부호
 exponent : 지수
 mantissa : 가수
+square : 정사각형, 제곱
+perfect square : 완전제곱
+perfect square expression : 완전제곱식
 
 ## Prime number vs Decimal
 

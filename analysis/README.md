@@ -9,6 +9,6 @@
 - 복소해석학
 - 수치해석학
 - 측도론
-- 함수해석학
+- [functional analysis : 함수해석학](./functional_analysis/README.md)
 - 조화해석학
 - 비표준 해석학
