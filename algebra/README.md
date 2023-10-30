@@ -37,3 +37,11 @@ completing the square는 이차다항식을 일차 일계수 다항식의 제곱
 a(x - h)<sup>2</sup> + k
 
 ![completing_square](../assets/completing_square.png)
+
+## identity element : 항등원 (= natural element, 단위원)
+
+군론을 비롯한 대수학에서 항등원이란 임의의 수 a 에 대하여 어떤 수를 연산했을 때 처음의 수 a가 되도록 만들어 주는 수
+
+![identity_element](../assets/identity_element.png)
+
+## 역원

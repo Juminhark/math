@@ -26,6 +26,7 @@ mantissa : 가수
 square : 정사각형, 제곱
 perfect square : 완전제곱
 perfect square expression : 완전제곱식
+ring : 환
 
 ## Prime number vs Decimal
 
