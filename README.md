@@ -1,28 +1,20 @@
 # Mathematics
 
-어원
+어원 : ‘학습하다’는 뜻을 갖는 ‘μανθάνω(manthano)’에서 파생한 그리스어 ‘μάθημα(máthēma)’에서 유래
 
-‘학습하다’는 뜻을 갖는 ‘μανθάνω(manthano)’에서 파생한 그리스어 ‘μάθημα(máthēma)’에서 유래
+## 구분
 
-## 주요 분야
-
-- number theory : 정수론
-- algebra : 대수학
-- analysis : 해석학
-- geometry : 기하학
-- topology : 위상수학
-- foundations of methematics : 수학기초론
-- discrete mathematics : 이산수학
-- Statistics and probability : 확률과 통계
+- [number theory : 정수론](/number_theory/README.md)
+- [algebra : 대수학](/algebra/README.md)
+- [analysis : 해석학](/analysis/README.md)
+- [geometry : 기하학](/geometry/README.md)
+- [topology : 위상수학](/topology/README.md)
+- [foundations of methematics : 수학기초론](/foundations_of_methematics/README.md)
+- [discrete mathematics : 이산수학](/discrete_mathematics/README.md)
+- [statistics and probability : 확률과 통계](/statistics_and_probability/README.md)
 - applied mathematics : 응용수학
-
-## [수체계](./categorizing_numbers/README.md)
-
-## 삼각형의 성질
-
-- 삼각형의 두변의 길이의 합은 나머지한병의 길이보다 크다
-
-## [수학용어](./dict/README.md)
+- [categorizing numbers : 수체계](/categorizing_numbers/README.md)
+- [dict : 수학용어](/dict/README.md)
 
 ## reference
 
