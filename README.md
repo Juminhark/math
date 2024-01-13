@@ -4,15 +4,16 @@
 
 ## 구분
 
-- [number theory : 정수론](/number_theory/README.md)
 - [algebra : 대수학](/algebra/README.md)
-- [analysis : 해석학](/analysis/README.md)
 - [geometry : 기하학](/geometry/README.md)
-- [topology : 위상수학](/topology/README.md)
-- [foundations of methematics : 수학기초론](/foundations_of_methematics/README.md)
-- [discrete mathematics : 이산수학](/discrete_mathematics/README.md)
+- [analysis : 해석학](/analysis/README.md)
 - [statistics and probability : 확률과 통계](/statistics_and_probability/README.md)
+- [discrete mathematics : 이산수학](/discrete_mathematics/README.md)
+- [foundations of methematics : 수학기초론](/foundations_of_methematics/README.md)
 - applied mathematics : 응용수학
+
+## ETC
+
 - [categorizing numbers : 수체계](/categorizing_numbers/README.md)
 - [dict : 수학용어](/dict/README.md)
 

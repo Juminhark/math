@@ -6,13 +6,9 @@
 
 ## 구분
 
-- linear algebra : 선형대수학
 - abstract algebra : 추상대수학
-- algebraic geometry : 대수기하학
-- 군론
-- 환론
-- 가환대수학
-- 호몰로지 대수학
+- linear algebra : 선형대수학
+- [number theory : 정수론](/number_theory/README.md)
 
 ## fundamental theorem of algebra : 대수학의 기본정리
 
